@@ -1,11 +1,24 @@
+aid: dsl
 name: DSL
-description: DSL is a technology or concept used in computing and information technology
-  to address specific technical challenges. It provides capabilities that help practitioners
-  build, manage, or improve systems and processes in their domain.
-url: null
+description: >-
+  A Domain-Specific Language (DSL) is a programming language or specification
+  language dedicated to a particular problem domain, a particular problem
+  representation technique, or a particular solution technique. DSLs allow
+  domain experts to express solutions in terms of the problem domain rather
+  than the implementation domain.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- DSL
-created: '2025'
-modified: '2025'
+  - DSL
+  - Domain-Specific Language
+  - Programming Languages
+  - Software Engineering
+url: https://en.wikipedia.org/wiki/Domain-specific_language
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
