@@ -9,8 +9,8 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - DSL
   - Domain-Specific Language
+  - DSL
   - Programming Languages
   - Software Engineering
 url: https://en.wikipedia.org/wiki/Domain-specific_language
