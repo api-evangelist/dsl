@@ -13,12 +13,17 @@ tags:
   - DSL
   - Programming Languages
   - Software Engineering
-url: https://en.wikipedia.org/wiki/Domain-specific_language
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/dsl/refs/heads/main/apis.yml
 created: '2025-01-01'
-modified: '2026-03-16'
+modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Reference
+    url: https://en.wikipedia.org/wiki/Domain-specific_language
+  - type: Reference
+    url: https://martinfowler.com/books/dsl.html
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
