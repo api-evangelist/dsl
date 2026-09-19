@@ -33,6 +33,11 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/dsl.png
 tags:
   - Domain-Specific Language
   - DSL
+  - Programming Language
+  - Software Engineering
+tags_raw:
+  - Domain-Specific Language
+  - DSL
   - Programming Languages
   - Software Engineering
 url: >-
